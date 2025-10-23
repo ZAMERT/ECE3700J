@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/VE370_Vivado/Lab5/Lab5.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+D:/VE370_Vivado/Lab5/Lab5.srcs/sim_1/new/CacheTest.v,1733472079,verilog,,,,CacheTest,,,,,,,,
+D:/VE370_Vivado/Lab5/Lab5.srcs/sources_1/new/CPU.v,1733318291,verilog,,D:/VE370_Vivado/Lab5/Lab5.srcs/sources_1/new/Cache.v,,CPU,,,,,,,,
+D:/VE370_Vivado/Lab5/Lab5.srcs/sources_1/new/Cache.v,1733380093,verilog,,D:/VE370_Vivado/Lab5/Lab5.srcs/sources_1/new/main_memory.v,,Cache,,,,,,,,
+D:/VE370_Vivado/Lab5/Lab5.srcs/sources_1/new/main_memory.v,1733472238,verilog,,D:/VE370_Vivado/Lab5/Lab5.srcs/sources_1/new/top.v,,main_memory,,,,,,,,
+D:/VE370_Vivado/Lab5/Lab5.srcs/sources_1/new/top.v,1733318866,verilog,,D:/VE370_Vivado/Lab5/Lab5.srcs/sim_1/new/CacheTest.v,,top,,,,,,,,

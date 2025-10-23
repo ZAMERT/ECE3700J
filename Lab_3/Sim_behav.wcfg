@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Sim_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Sim" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="74.151 ns"></ZoomEndTime>
+      <Cursor1Time time="26.100 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="193"></NameColumnWidth>
+      <ValueColumnWidth column_width="192"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="60" />
+   <wvobject fp_name="/Sim/TOP/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/pc" type="array">
+      <obj_property name="ElementShortName">pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/inst_IF" type="array">
+      <obj_property name="ElementShortName">inst_IF[31:0]</obj_property>
+      <obj_property name="ObjectShortName">inst_IF[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/pc4" type="array">
+      <obj_property name="ElementShortName">pc4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pc4[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/nextPC" type="array">
+      <obj_property name="ElementShortName">nextPC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">nextPC[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/inst_ID" type="array">
+      <obj_property name="ElementShortName">inst_ID[31:0]</obj_property>
+      <obj_property name="ObjectShortName">inst_ID[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/readData1_ID" type="array">
+      <obj_property name="ElementShortName">readData1_ID[31:0]</obj_property>
+      <obj_property name="ObjectShortName">readData1_ID[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/readData2_ID" type="array">
+      <obj_property name="ElementShortName">readData2_ID[31:0]</obj_property>
+      <obj_property name="ObjectShortName">readData2_ID[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/imm_ID" type="array">
+      <obj_property name="ElementShortName">imm_ID[31:0]</obj_property>
+      <obj_property name="ObjectShortName">imm_ID[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/pc_ID" type="array">
+      <obj_property name="ElementShortName">pc_ID[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_ID[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/PCnext_ID" type="array">
+      <obj_property name="ElementShortName">PCnext_ID[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PCnext_ID[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/readData1_EX" type="array">
+      <obj_property name="ElementShortName">readData1_EX[31:0]</obj_property>
+      <obj_property name="ObjectShortName">readData1_EX[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/readData2_EX" type="array">
+      <obj_property name="ElementShortName">readData2_EX[31:0]</obj_property>
+      <obj_property name="ObjectShortName">readData2_EX[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/ALUin2" type="array">
+      <obj_property name="ElementShortName">ALUin2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUin2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/ALUResult_EX" type="array">
+      <obj_property name="ElementShortName">ALUResult_EX[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUResult_EX[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/imm_EX" type="array">
+      <obj_property name="ElementShortName">imm_EX[31:0]</obj_property>
+      <obj_property name="ObjectShortName">imm_EX[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/immShift" type="array">
+      <obj_property name="ElementShortName">immShift[31:0]</obj_property>
+      <obj_property name="ObjectShortName">immShift[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/pc_EX" type="array">
+      <obj_property name="ElementShortName">pc_EX[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_EX[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/pcImm_EX" type="array">
+      <obj_property name="ElementShortName">pcImm_EX[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pcImm_EX[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/PCnext_EX" type="array">
+      <obj_property name="ElementShortName">PCnext_EX[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PCnext_EX[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/ALUResult_MEM" type="array">
+      <obj_property name="ElementShortName">ALUResult_MEM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUResult_MEM[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/readData2_MEM" type="array">
+      <obj_property name="ElementShortName">readData2_MEM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">readData2_MEM[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/readData_MEM" type="array">
+      <obj_property name="ElementShortName">readData_MEM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">readData_MEM[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/PCnext_MEM" type="array">
+      <obj_property name="ElementShortName">PCnext_MEM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PCnext_MEM[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/writeData_WB" type="array">
+      <obj_property name="ElementShortName">writeData_WB[31:0]</obj_property>
+      <obj_property name="ObjectShortName">writeData_WB[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/readData_WB" type="array">
+      <obj_property name="ElementShortName">readData_WB[31:0]</obj_property>
+      <obj_property name="ObjectShortName">readData_WB[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/PCnext_WB" type="array">
+      <obj_property name="ElementShortName">PCnext_WB[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PCnext_WB[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/ALUResult_WB" type="array">
+      <obj_property name="ElementShortName">ALUResult_WB[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUResult_WB[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/rd_EX" type="array">
+      <obj_property name="ElementShortName">rd_EX[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_EX[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/rd_MEM" type="array">
+      <obj_property name="ElementShortName">rd_MEM[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_MEM[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/rd_WB" type="array">
+      <obj_property name="ElementShortName">rd_WB[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_WB[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/infunct3_EX" type="array">
+      <obj_property name="ElementShortName">infunct3_EX[3:0]</obj_property>
+      <obj_property name="ObjectShortName">infunct3_EX[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/ALUControl" type="array">
+      <obj_property name="ElementShortName">ALUControl[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUControl[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/Funct3_MEM" type="array">
+      <obj_property name="ElementShortName">Funct3_MEM[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Funct3_MEM[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/MemtoReg_ID" type="array">
+      <obj_property name="ElementShortName">MemtoReg_ID[1:0]</obj_property>
+      <obj_property name="ObjectShortName">MemtoReg_ID[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/MemtoReg_EX" type="array">
+      <obj_property name="ElementShortName">MemtoReg_EX[1:0]</obj_property>
+      <obj_property name="ObjectShortName">MemtoReg_EX[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/MemtoReg_MEM" type="array">
+      <obj_property name="ElementShortName">MemtoReg_MEM[1:0]</obj_property>
+      <obj_property name="ObjectShortName">MemtoReg_MEM[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/ALUOp_ID" type="array">
+      <obj_property name="ElementShortName">ALUOp_ID[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUOp_ID[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/Jump_ID" type="array">
+      <obj_property name="ElementShortName">Jump_ID[1:0]</obj_property>
+      <obj_property name="ObjectShortName">Jump_ID[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/ALUOp_EX" type="array">
+      <obj_property name="ElementShortName">ALUOp_EX[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUOp_EX[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/MemtoReg_WB" type="array">
+      <obj_property name="ElementShortName">MemtoReg_WB[1:0]</obj_property>
+      <obj_property name="ObjectShortName">MemtoReg_WB[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/Jump_EX" type="array">
+      <obj_property name="ElementShortName">Jump_EX[1:0]</obj_property>
+      <obj_property name="ObjectShortName">Jump_EX[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/Jump_Mem" type="array">
+      <obj_property name="ElementShortName">Jump_Mem[1:0]</obj_property>
+      <obj_property name="ObjectShortName">Jump_Mem[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/Branch_ID" type="logic">
+      <obj_property name="ElementShortName">Branch_ID</obj_property>
+      <obj_property name="ObjectShortName">Branch_ID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/MemRead_ID" type="logic">
+      <obj_property name="ElementShortName">MemRead_ID</obj_property>
+      <obj_property name="ObjectShortName">MemRead_ID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/MemWrite_ID" type="logic">
+      <obj_property name="ElementShortName">MemWrite_ID</obj_property>
+      <obj_property name="ObjectShortName">MemWrite_ID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/ALUSrc_ID" type="logic">
+      <obj_property name="ElementShortName">ALUSrc_ID</obj_property>
+      <obj_property name="ObjectShortName">ALUSrc_ID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/RegWrite_ID" type="logic">
+      <obj_property name="ElementShortName">RegWrite_ID</obj_property>
+      <obj_property name="ObjectShortName">RegWrite_ID</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/RegWrite_EX" type="logic">
+      <obj_property name="ElementShortName">RegWrite_EX</obj_property>
+      <obj_property name="ObjectShortName">RegWrite_EX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/RegWrite_WB" type="logic">
+      <obj_property name="ElementShortName">RegWrite_WB</obj_property>
+      <obj_property name="ObjectShortName">RegWrite_WB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/zero_EX" type="logic">
+      <obj_property name="ElementShortName">zero_EX</obj_property>
+      <obj_property name="ObjectShortName">zero_EX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/MemRead_MEM" type="logic">
+      <obj_property name="ElementShortName">MemRead_MEM</obj_property>
+      <obj_property name="ObjectShortName">MemRead_MEM</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/MemWrite_MEM" type="logic">
+      <obj_property name="ElementShortName">MemWrite_MEM</obj_property>
+      <obj_property name="ObjectShortName">MemWrite_MEM</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/Branch_MEM" type="logic">
+      <obj_property name="ElementShortName">Branch_MEM</obj_property>
+      <obj_property name="ObjectShortName">Branch_MEM</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/zero_MEM" type="logic">
+      <obj_property name="ElementShortName">zero_MEM</obj_property>
+      <obj_property name="ObjectShortName">zero_MEM</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/Branch_EX" type="logic">
+      <obj_property name="ElementShortName">Branch_EX</obj_property>
+      <obj_property name="ObjectShortName">Branch_EX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/MemRead_EX" type="logic">
+      <obj_property name="ElementShortName">MemRead_EX</obj_property>
+      <obj_property name="ObjectShortName">MemRead_EX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/MemWrite_EX" type="logic">
+      <obj_property name="ElementShortName">MemWrite_EX</obj_property>
+      <obj_property name="ObjectShortName">MemWrite_EX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/ALUSrc_EX" type="logic">
+      <obj_property name="ElementShortName">ALUSrc_EX</obj_property>
+      <obj_property name="ObjectShortName">ALUSrc_EX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Sim/TOP/RegWrite_MEM" type="logic">
+      <obj_property name="ElementShortName">RegWrite_MEM</obj_property>
+      <obj_property name="ObjectShortName">RegWrite_MEM</obj_property>
+   </wvobject>
+</wave_config>

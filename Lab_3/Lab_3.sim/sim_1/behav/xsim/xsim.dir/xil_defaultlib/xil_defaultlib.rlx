@@ -1,0 +1,23 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+D:/VE370_Vivado/Lab_3/Lab_3.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+D:/VE370_Vivado/Lab_3/Lab_3.srcs/sim_1/new/Sim.v,1731624847,verilog,,,,Sim,,,,,,,,
+D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/ALU.v,1731621732,verilog,,D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/top.v,,ALU,,,,,,,,
+D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/ALUControl.v,1731596699,verilog,,D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/Adder.v,,ALUControl,,,,,,,,
+D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/Adder.v,1731582516,verilog,,D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/ALU.v,,Adder,,,,,,,,
+D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/Control.v,1731600107,verilog,,D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/ALUControl.v,,Control,,,,,,,,
+D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/DataMemory.v,1731625703,verilog,,D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/Control.v,,DataMemory,,,,,,,,
+D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/EX_MEM_Reg.v,1731626778,verilog,,D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/DataMemory.v,,EX_MEM_Reg,,,,,,,,
+D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/ID_EX_Reg.v,1731626525,verilog,,D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/EX_MEM_Reg.v,,ID_EX_Reg,,,,,,,,
+D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/IF_ID_Reg.v,1731626238,verilog,,D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/ID_EX_Reg.v,,IF_ID_Reg,,,,,,,,
+D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/ImmGen.v,1731587947,verilog,,D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/IF_ID_Reg.v,,ImmGen,,,,,,,,
+D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/InstructionMemory.v,1731618693,verilog,,D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/ImmGen.v,,InstructionMemory,,,,,,,,
+D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/MEM_WB_Reg.v,1731626291,verilog,,D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/InstructionMemory.v,,MEM_WB_Reg,,,,,,,,
+D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/Mux.v,1731586292,verilog,,D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/MEM_WB_Reg.v,,Mux,,,,,,,,
+D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/Mux4to1.v,1731600348,verilog,,D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/Mux.v,,Mux4to1,,,,,,,,
+D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/Mux8to1.v,1731600440,verilog,,D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/Mux4to1.v,,Mux8to1,,,,,,,,
+D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/RegisterFile.v,1731626337,verilog,,D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/Mux8to1.v,,RegisterFile,,,,,,,,
+D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/ShiftLeft.v,1731586358,verilog,,D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/RegisterFile.v,,ShiftLeft,,,,,,,,
+D:/VE370_Vivado/Lab_3/Lab_3.srcs/sources_1/new/top.v,1731626800,verilog,,D:/VE370_Vivado/Lab_3/Lab_3.srcs/sim_1/new/Sim.v,,top,,,,,,,,

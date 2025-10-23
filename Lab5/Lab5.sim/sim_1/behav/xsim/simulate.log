@@ -1,0 +1,184 @@
+Time resolution is 1 ps
+===============================================
+Clock cycle           0
+Read data = xxxxxxxx
+hit_miss = x
+read_write_cache = x
+Request number  x
+===============================================
+===============================================
+Clock cycle           1
+Read data = xxxxxxxx
+hit_miss = 0
+read_write_cache = 1
+Request number  0
+===============================================
+===============================================
+Clock cycle           2
+Read data = xxxxxxxx
+hit_miss = 0
+read_write_cache = 1
+Request number  0
+===============================================
+===============================================
+Clock cycle           3
+Read data = xxxxxxxx
+hit_miss = 1
+read_write_cache = 1
+Request number  0
+===============================================
+===============================================
+Clock cycle           4
+Read data = 000003ab
+hit_miss = 1
+read_write_cache = 0
+Request number  1
+===============================================
+===============================================
+Clock cycle           5
+Read data = 000003ab
+hit_miss = 1
+read_write_cache = 1
+Request number  2
+===============================================
+===============================================
+Clock cycle           6
+Read data = 000003ac
+hit_miss = 1
+read_write_cache = 0
+Request number  3
+===============================================
+===============================================
+Clock cycle           7
+Read data = 000003ac
+hit_miss = 0
+read_write_cache = 0
+Request number  4
+===============================================
+===============================================
+Clock cycle           8
+Read data = 00000000
+hit_miss = 1
+read_write_cache = 0
+Request number  4
+===============================================
+===============================================
+Clock cycle           9
+Read data = 00000000
+hit_miss = 0
+read_write_cache = 0
+Request number  5
+===============================================
+===============================================
+Clock cycle          10
+Read data = 00000000
+hit_miss = 0
+read_write_cache = 0
+Request number  5
+===============================================
+===============================================
+Clock cycle          11
+Read data = 00000000
+hit_miss = 0
+read_write_cache = 0
+Request number  5
+===============================================
+===============================================
+Clock cycle          12
+Read data = 00000000
+hit_miss = 1
+read_write_cache = 0
+Request number  5
+===============================================
+===============================================
+Clock cycle          13
+Read data = 00000000
+hit_miss = 0
+read_write_cache = 0
+Request number  6
+===============================================
+===============================================
+Clock cycle          14
+Read data = 000003ac
+hit_miss = 1
+read_write_cache = 0
+Request number  6
+===============================================
+===============================================
+Clock cycle          15
+Read data = 000003ac
+hit_miss = 1
+read_write_cache = 1
+Request number  7
+===============================================
+===============================================
+Clock cycle          16
+Read data = 000003ac
+hit_miss = 0
+read_write_cache = 1
+Request number  8
+===============================================
+===============================================
+Clock cycle          17
+Read data = 000003ac
+hit_miss = 0
+read_write_cache = 1
+Request number  8
+===============================================
+===============================================
+Clock cycle          18
+Read data = 000003ac
+hit_miss = 0
+read_write_cache = 1
+Request number  8
+===============================================
+===============================================
+Clock cycle          19
+Read data = 000003ac
+hit_miss = 1
+read_write_cache = 1
+Request number  8
+===============================================
+===============================================
+Clock cycle          20
+Read data = 000003ae
+hit_miss = 1
+read_write_cache = 0
+Request number  9
+===============================================
+===============================================
+Clock cycle          21
+Read data = 000003ae
+hit_miss = 0
+read_write_cache = 0
+Request number 10
+===============================================
+===============================================
+Clock cycle          22
+Read data = 000003ae
+hit_miss = 0
+read_write_cache = 0
+Request number 10
+===============================================
+===============================================
+Clock cycle          23
+Read data = 000003ae
+hit_miss = 0
+read_write_cache = 0
+Request number 10
+===============================================
+===============================================
+Clock cycle          24
+Read data = 000003ad
+hit_miss = 1
+read_write_cache = 0
+Request number 10
+===============================================
+===============================================
+Clock cycle          25
+Read data = 00000003
+hit_miss = 1
+read_write_cache = 0
+Request number 11
+===============================================
+$stop called at time : 260 ns : File "D:/VE370_Vivado/Lab5/Lab5.srcs/sim_1/new/CacheTest.v" Line 51
